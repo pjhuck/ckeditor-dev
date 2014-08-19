@@ -1,6 +1,6 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
- * For licensing, see LICENSE.html or http://ckeditor.com/license
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
+ * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
 /**
@@ -18,16 +18,9 @@
  * @namespace
  */
 CKEDITOR.lang[ 'ro' ] = {
-	/**
-	 * The language reading direction. Possible values are "rtl" for
-	 * Right-To-Left languages (like Arabic) and "ltr" for Left-To-Right
-	 * languages (like English).
-	 * @default 'ltr'
-	 */
-	dir: 'ltr',
-
 	// ARIA description.
 	editor: 'Rich Text Editor',
+	editorPanel: 'Rich Text Editor panel', // MISSING
 
 	// Common messages and labels.
 	common: {
@@ -88,9 +81,11 @@ CKEDITOR.lang[ 'ro' ] = {
 		alignLeft: 'Mărește Bara',
 		alignRight: 'Dreapta',
 		alignCenter: 'Centru',
+		alignJustify: 'Aliniere în bloc (Block Justify)',
 		alignTop: 'Sus',
 		alignMiddle: 'Mijloc',
 		alignBottom: 'Jos',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'Varloare invalida',
 		invalidHeight: 'Înălțimea trebuie să fie un număr.',
 		invalidWidth: 'Lățimea trebuie să fie un număr.',

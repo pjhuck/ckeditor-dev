@@ -1,6 +1,6 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
-For licensing, see LICENSE.html or http://ckeditor.com/license
+Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.md or http://ckeditor.com/license
 */
 CKEDITOR.plugins.setLang( 'image', 'gl', {
 	alertUrl: 'Escriba o URL da imaxe',
@@ -23,4 +23,4 @@ CKEDITOR.plugins.setLang( 'image', 'gl', {
 	validateBorder: 'O bordo debe ser un número.',
 	validateHSpace: 'O espazado horizontal debe ser un número.',
 	validateVSpace: 'O espazado vertical debe ser un número.'
-});
+} );

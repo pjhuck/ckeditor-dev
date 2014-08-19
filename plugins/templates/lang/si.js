@@ -1,6 +1,6 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
-For licensing, see LICENSE.html or http://ckeditor.com/license
+Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.md or http://ckeditor.com/license
 */
 CKEDITOR.plugins.setLang( 'templates', 'si', {
 	button: 'අච්චුව',
@@ -9,4 +9,4 @@ CKEDITOR.plugins.setLang( 'templates', 'si', {
 	options: 'අච්චු ',
 	selectPromptMsg: 'කරුණාකර සංස්කරණය සදහා අච්චුවක් ',
 	title: 'අන්තර්ගත් අච්චුන්'
-});
+} );

@@ -1,6 +1,6 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
-For licensing, see LICENSE.html or http://ckeditor.com/license
+Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.md or http://ckeditor.com/license
 */
 CKEDITOR.plugins.setLang( 'templates', 'bg', {
 	button: 'Шаблони',
@@ -9,4 +9,4 @@ CKEDITOR.plugins.setLang( 'templates', 'bg', {
 	options: 'Опции за шаблона',
 	selectPromptMsg: 'Изберете шаблон <br>(текущото съдържание на редактора ще бъде загубено):',
 	title: 'Шаблони'
-});
+} );
